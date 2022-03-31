@@ -1,7 +1,9 @@
 # Landscape_Demo 
 ## Introduction
 Our website is a website introduce about Ha Long Bay and all landscape in Ha Long Bay. Website advertise Ha Long Bay for viewer.
-
+## Install and run
+- Open Terminal, run node main.js or node-dev main.js
+- The web app will run on localhost:8080/showroom
 ## Describe all screens in your application
   a. Home page
   Display photo of Ha Long Bay with website name and logo. Menu bar has Places, About, Contact, Login on header of website.
@@ -20,5 +22,3 @@ Our website is a website introduce about Ha Long Bay and all landscape in Ha Lon
 ![Database Schema](https://user-images.githubusercontent.com/73147362/160984256-a90c0f6e-9cc2-43da-90fc-97d07461f027.png)
   ### Class Diagram
 ![Class Diagram](https://user-images.githubusercontent.com/73147362/160984594-47f8cb37-afe4-4be1-9ed1-a3b2ee4adf2b.png)
-
-## Describe all components
