@@ -5,15 +5,15 @@ Our website is a website introduce about Ha Long Bay and all landscape in Ha Lon
 - Open Terminal, run node main.js or node-dev main.js
 - The web app will run on localhost:8080/showroom
 ## Describe all screens in your application
-  a. Home page
+  ##a. Home page
   Display photo of Ha Long Bay with website name and logo. Menu bar has Places, About, Contact, Login on header of website.
-  b. Places
+  ##b. Places
   Display picture and name of four landscape in Ha Long Bay.
-  c. About
+  ##c. About
   In About, we describe about Ha Long Bay. Then we advertise some landscape, viewers can click 'More detail' to read more about one of those lanscapes.
-  d. Contact
+  ##d. Contact
   In Contact, viewers can keep in touch with by comment then send message for us.
-  e. Login
+  ##e. Login
   After login, we can edit wallpaper picture in header. We can edit or delete picture or landscape in Places, About.
 ## Draw some mock-up with prototyping tools
 ## Draw model to describe the architecture
