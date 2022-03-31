@@ -16,6 +16,8 @@ Our website is a website introduce about Ha Long Bay and all landscape in Ha Lon
   - Login
   After login, we can edit wallpaper picture in header. We can edit or delete picture or landscape in Places, About.
 ## Draw some mock-up with prototyping tools
+![image](https://user-images.githubusercontent.com/73147362/161085155-89b3c14c-2ea9-4aad-a6eb-4465f3d51f42.png)
+
 ## Draw model to describe the architecture
 
   ### Database Schema
