@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, , shrink-to-fit=no">
+    <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" href="w3.css">
+    <title><%= generalInfo.companyNameShort %> <%= generalInfo.companyNameLong %></title>
+</head>
+<body>
+    
+    <%- include('tiles/navbar') %>
+    <%- include('tiles/header') %>
+    <!-- Page content -->
+    <div class="w3-content w3-padding" style="max-width: 1564px;">
+        <%- include('tiles/landscapes') %>
+        <%- include('tiles/about') %>
+        <%- include('tiles/contact') %>
+    </div>
+    <%- include('tiles/footer') %>
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>    
+</body>
+</html>
